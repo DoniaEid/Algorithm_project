@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1778741195 source:c:\users\donia\onedrive\desktop\wiggle_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+
